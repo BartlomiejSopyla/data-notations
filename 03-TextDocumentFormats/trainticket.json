@@ -1,0 +1,8 @@
+{
+    "startingStation": "Kraków Główny",
+    "finalStation": "Warszawa Główny",
+    "price": 70.00,
+    "changeTrains": false,
+    "routeLenghtKM": 319,
+    "time": ["11:38", "15:40"]
+}

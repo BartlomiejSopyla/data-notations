@@ -1,1 +1,20 @@
-<transport1></transport1>
+<transportation>
+    <vehicle type='ground' mode='car'>
+        <name>Honda Civic</name>
+        <capacity>5</capacity>
+        <fuelType>Petrol</fuelType>
+        <color>Red</color>
+    </vehicle>
+    <vehicle type='water' mode='boat'>
+        <name>Yamaha</name>
+        <capacity>8</capacity>
+        <fuelType>Gasoline</fuelType>
+        <color>Blue</color>
+    </vehicle>
+    <vehicle type='air' mode='plane'>
+        <name>Boeing 737</name>
+        <capacity>180</capacity>
+        <fuelType>Jet fuel</fuelType>
+        <color>White</color>
+    </vehicle>
+</transportation>

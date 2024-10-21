@@ -53,5 +53,27 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Levi's",
+        "founded": 1853,
+        "headquarters": "San Francisco, USA",
+        "employees": 15000,
+        "products": [
+            "Jeans",
+            "Accessories",
+            "Casual Wear"
+        ]
+    },
+    {
+        "name": "Vans",
+        "founded": 1966,
+        "headquarters": "Cypress, USA",
+        "employees": 10000,
+        "products": [
+            "Footwear",
+            "Accessories",
+            "Casual Wear"
+        ]
     }
 ]
